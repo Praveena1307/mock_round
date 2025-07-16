@@ -1,0 +1,8 @@
+transformers
+torch
+accelerate
+sentencepiece
+langchain
+langchain-community
+duckduckgo-search
+Pillow
